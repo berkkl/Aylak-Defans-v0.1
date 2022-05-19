@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+*.lld filter=lfs diff=lfs merge=lfs -text
+C:/Users/berkk/OneDrive/Masaüstü/Unity[[:space:]]Projects/Aylak[[:space:]]Defans[[:space:]]v0.1/Library/PackageCache/com.unity.burst@1.6.5/.Runtime/hostmac/lld filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
